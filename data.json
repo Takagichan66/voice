@@ -1,0 +1,18 @@
+[
+    {
+        "keywords": ["xin chào", "chào", "hello"],
+        "response": "Xin chào! Tôi có thể giúp gì cho bạn?"
+    },
+    {
+        "keywords": ["ngày", "hôm nay"],
+        "response": "Hôm nay là ngày nào đó."
+    },
+    {
+        "keywords": ["giờ", "mấy giờ"],
+        "response": "Bây giờ là mấy giờ."
+    },
+    {
+        "keywords": ["tạm biệt", "bye"],
+        "response": "Tạm biệt! Hẹn gặp lại bạn sau!"
+    }
+]
